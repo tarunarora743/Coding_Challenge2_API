@@ -1,0 +1,19 @@
+{
+    "name": "taruntest123",
+    "email": "taruntest08@test.com",
+    "password": "telstra^7hg#$",
+    "title": "Mr",
+    "birth_date": "11",
+    "birth_month": "11",
+    "birth_year": "2011",
+    "firstname": "tarun",
+    "lastname": "test",
+    "company": "Good",
+    "address1": "209",
+    "address2": "Jells Road",
+    "country": "Australia",
+    "zipcode": "3150",
+    "state": "VIC",
+    "city": "Glen",
+    "mobile_number": "0431123123"
+}
